@@ -16,7 +16,7 @@ First clone this repository.
 $ git clone https://github.com/Abdulrahman88-c/snake_game.git
 ```
 
-Install dependencies. Make sure you already have [`nodejs`](https://python.org/en/) 
+Install dependencies. Make sure you already have [`python`](https://python.org/en/) installed.
 ```bash
 
 $ navigate into the folder - cd snake_game
