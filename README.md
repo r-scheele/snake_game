@@ -31,7 +31,7 @@ This is a simple Python Snake Game built to improve my Object oriented programmi
  
 ## Technologies
 Project uses:
-* Turtle Library
-* Python
-* OOP with python
+    * Turtle Library
+    * Python
+    * OOP with python
 
